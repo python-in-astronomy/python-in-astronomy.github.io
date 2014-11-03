@@ -32,3 +32,11 @@ h2 {
 	font-size: 12px;
 	font-style: italic;
 }
+
+a {
+	color: #fef2aa;
+}
+.apply {
+	font-size: 20px;
+	text-align: center;
+}
