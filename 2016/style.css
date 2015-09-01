@@ -1,0 +1,55 @@
+body {
+	font-family: "Source Sans Pro";
+	background-color: #212121;
+	color: #f4f4f4;
+	text-align: center;
+	font-size: 24px;
+}
+
+h1 {
+	font-size: 48px;
+	margin-bottom: 10px;
+}
+
+h2 {
+	font-size: 24px;
+	font-style: italic;
+}
+
+#content {
+	margin-top: 1em;
+}
+
+#content-savethedate {
+	margin-top: 5em;
+}
+
+.about {
+	font-size: 16px;
+	width: 650px;
+	max-width: 90%;
+	text-align: justify;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.small {
+	font-size: 12px;
+	font-style: italic;
+}
+
+a {
+	color: #fef2aa;
+}
+.apply {
+	font-size: 20px;
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
+
+li {
+	margin-bottom: 1em;
+}
