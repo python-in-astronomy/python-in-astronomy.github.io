@@ -53,3 +53,7 @@ a {
 li {
 	margin-bottom: 1em;
 }
+
+.required.email {
+  color: #ffffff;
+}
