@@ -38,6 +38,10 @@ h2 {
 	font-style: italic;
 }
 
+.header {
+	font-size: 16px;
+}
+
 a {
 	color: #fef2aa;
 }
