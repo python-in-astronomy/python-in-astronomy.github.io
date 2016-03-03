@@ -84,3 +84,7 @@ tr.break {
 td.title {
 	font-style: italic;
 }
+
+tr {
+	vertical-align: top;
+}
