@@ -88,3 +88,7 @@ td.title {
 tr {
 	vertical-align: top;
 }
+
+.chair {
+	font-style: italic;
+}
