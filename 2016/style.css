@@ -61,3 +61,34 @@ li {
 .required.email {
   background-color: #ffffff;
 }
+
+td.day {
+	font-weight: bold;
+	font-size: 18px;
+	padding-top: 20px;
+}
+
+.program {
+	font-size: 14px;
+	width: 800px;
+	max-width: 90%;
+	text-align: justify;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+tr.break {
+	color: #919191;
+}
+
+td.title {
+	font-style: italic;
+}
+
+tr {
+	vertical-align: top;
+}
+
+.chair {
+	font-style: italic;
+}
